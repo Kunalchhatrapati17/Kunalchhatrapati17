@@ -4,7 +4,7 @@
 📍 Sacramento, CA | US Citizen
 
 ## About Me
-Mid-level Data & Analytics professional with 3+ years 
+Data & Analytics professional with 3+ years 
 of experience building data pipelines, BI dashboards, 
 and analytics solutions across enterprise and 
 public-sector environments.
